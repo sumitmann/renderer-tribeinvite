@@ -55,10 +55,10 @@ curl --location --request POST '<appwrite-cloud-function-url>/v1/functions/<appw
 --data ''
 ```
 Replace the following placeholders with values from your Appwrite dashboard:
-*`<appwrite-cloud-function-url>`
-*`<appwrite-cloud-function-id>`
-*`<appwrite-project-id>`
-*`<appwrite-api-key>`
+* `<appwrite-cloud-function-url>`
+* `<appwrite-cloud-function-id>`
+* `<appwrite-project-id>`
+* `<appwrite-api-key>`
 
 
 Example:
