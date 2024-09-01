@@ -11,7 +11,7 @@ Render Service for TribeInvite
 ## Installation
 
 1. Install project dependencies:
-   ```bash
+```bash
    npm install
 ```
 
