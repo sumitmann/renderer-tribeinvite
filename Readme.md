@@ -1,4 +1,4 @@
-# Project Name
+# Tribeinvite
 
 Render Service for TribeInvite
 
