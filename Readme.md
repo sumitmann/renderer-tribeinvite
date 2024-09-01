@@ -16,8 +16,8 @@ Render Service for TribeInvite
 ```
 
 2. Install RabbitMQ:
-mac: https://www.rabbitmq.com/docs/install-generic-unix#downloads
-windows: https://www.rabbitmq.com/docs/install-windows#downloads
+*mac: https://www.rabbitmq.com/docs/install-generic-unix#downloads
+*windows: https://www.rabbitmq.com/docs/install-windows#downloads
 
 3. Start RabbitMQ server: 
 Windows: Start from the Start menu
@@ -55,10 +55,10 @@ curl --location --request POST '<appwrite-cloud-function-url>/v1/functions/<appw
 --data ''
 ```
 Replace the following placeholders with values from your Appwrite dashboard:
-<appwrite-cloud-function-url>
-<appwrite-cloud-function-id>
-<appwrite-project-id>
-<appwrite-api-key>
+*`<appwrite-cloud-function-url>`
+*`<appwrite-cloud-function-id>`
+*`<appwrite-project-id>`
+*`<appwrite-api-key>`
 
 
 Example:
